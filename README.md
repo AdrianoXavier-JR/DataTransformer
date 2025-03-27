@@ -68,12 +68,12 @@ Clone ou baixe o código do projeto para o seu ambiente local.
         
     *   Gerar um arquivo CSV com os dados extraídos.
         
-    *   Compactar o arquivo CSV em um arquivo ZIP chamado Teste\_{seu\_nome}.zip.
+    *   Compactar o arquivo CSV em um arquivo ZIP chamado Teste_Adriano_Xavier.zip.
         
 
 ### **Passo 4: Verifique os Arquivos Gerados**
 
-Após a execução do código, o arquivo ZIP será gerado na sua pasta de Downloads com o nome Teste\_{seu\_nome}.zip.
+Após a execução do código, o arquivo ZIP será gerado na sua pasta de Downloads com o nome Teste_Adriano_Xavier.zip.
 
 **Detalhes Técnicos**
 ---------------------
